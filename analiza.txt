@@ -1,0 +1,37 @@
+Istniejace rozwiazania:
+    - Yummly, Allrecipes, Cookpad, SuperCook:
+        -- SuperCook wyróżnia się możliwością wprowadzania dowolnych składników, a następnie sugerowania przepisów, które można z nich przygotować. 
+        -- Yummly oferuje zaawansowane filtry oraz personalizację przepisów na podstawie preferencji użytkownika.
+        -- Allrecipes z kolei oferuje dużą bazę przepisów, w której użytkownik może wyszukiwać przepisy na podstawie nazwy dania, składników czy diety.
+        -- Cookpad umożliwia użytkownikom dzielenie się przepisami oraz recenzjami, co czyni z niego prawdziwą społeczność kulinarną.
+
+Analiza narzędzi:
+    - Flask:
+        -- Jest to framework do tworzenia aplikacji webowych w Pythonie.
+        -- Pozwala na szybkie stworzenie prostego serwera oraz routingu do obsługi różnych endpointów.
+        -- Łatwość integracji z innymi bibliotekami oraz narzędziami.
+    - Themealdb API:
+        -- API zawierające dane dotyczące kulinarnych przepisów, składników, danców oraz obsługujące wyszukiwanie po nazwie, składnikach oraz kategoriach.
+        -- API oferuje również możliwość pobierania detalicznych informacji na temat poszczególnych przepisów, takich jak opis, instrukcja przygotowania, 
+            zdjęcia oraz inne.
+    - Dotenv:
+        -- Pozwala na łatwe ładowanie zmiennych środowiskowych z pliku .env do środowiska aplikacji.
+        -- Ułatwia konfigurację oraz zarządzanie zmiennymi niezależnie od środowiska uruchomieniowego.
+    - HTML/CSS:
+        -- HTML służy do strukturyzacji zawartości strony.
+        -- CSS odpowiada za stylizację oraz prezentację elementów wizualizując je w formie tabel, kart, itp.
+
+Uzasadnienie wyboru narzędzi:
+    - Flask:
+        -- Pozwala na łatwe stworzenie prostego serwera oraz routing do obsługi różnych endpointów.
+        -- Łatwość integracji z API oraz możliwość tworzenia dynamicznych stron internetowych.
+    - Themealdb API:
+        -- API oferuje dużą bazę danych dotyczących kulinarnych przepisów, składników, danców oraz obsługujące wyszukiwanie po nazwie, składnikach oraz kategoriach.
+        -- API oferuje również możliwość pobierania detalicznych informacji na temat poszczególnych przepisów, takich jak opis, instrukcja przygotowania, 
+            zdjęcia oraz inne.
+    - Dotenv:
+        -- Pozwala na łatwe ładowanie zmiennych środowiskowych z pliku .env do środowiska aplikacji.
+        -- Ułatwia konfigurację oraz zarządzanie zmiennymi niezależnie od środowiska uruchomieniowego.
+    - HTML/CSS:
+        -- Pozwala na tworzenie atrakcyjnych i responsywnych stron internetowych.
+        -- Umożliwia stylizację elementów oraz ich prezentację w formie tabel, kart, itp.
