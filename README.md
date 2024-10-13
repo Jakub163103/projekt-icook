@@ -39,8 +39,8 @@ The **Recipe Finder** is a Flask-based web application that allows users to disc
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/recipe-finder.git
-    cd recipe-finder
+    git clone https://github.com/jakub163103/projekt-icook.git
+    cd projekt-icook
     ```
 
 2. **Create a Virtual Environment**
